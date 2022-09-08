@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create CLJS App](https://github.com/filipesilva/create-cljs-app).
-
+ 
 ## Available Scripts
 
 In the project directory, you can run:
